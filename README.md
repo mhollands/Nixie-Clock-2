@@ -1,8 +1,8 @@
 # Nixie-Clock-2
-A 4-digit Nixie Clock design. Accurate to 4 minutes per year. 9-12V input.
+A four digit Nixie Clock design. Accurate to 4 minutes per year.
 
-Here you can find designs for the electrical part of a Nixie Clock. It is accurate to 4 minutes per year.
+Here you can find designs for the electrical part of a Nixie Clock.
 
-Included are Gerbers, code and schematic.
+Included are Gerbers, BOM, code and schematic - everything you need to make your own.
 
-Read more at projects.matthollands.com/category/nixie-clock/
+Read more at [my website](projects.matthollands.com/category/nixie-clock/).
