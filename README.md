@@ -16,3 +16,5 @@ There are some minor differences between my build and the schematic:
 This design uses high voltages of 180V. In the right situation this could kill you. I have constructedmy design in such a way that this could only occur purposefully and with some effort. I don't accept any responsibility for your use of my design, code, component choice.
 
 ### Read more at [my website](projects.matthollands.com/category/nixie-clock/).
+
+![alt text](https://keepdevelopingprojects.files.wordpress.com/2015/08/finished.jpg)
