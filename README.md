@@ -1,5 +1,5 @@
 # Nixie-Clock-2
-A four digit Nixie Clock design. Accurate to 4 minutes per year.
+A four digit Nixie Clock design. Accurate to 4 minutes per year or 1 minute per year if you keep it between 0 and 40 degrees c.
 
 Here you can find designs for the electrical part of a Nixie Clock.
 
